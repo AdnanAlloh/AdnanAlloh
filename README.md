@@ -1,4 +1,6 @@
-# 🧠 Programming Skills – Adnan Hamdan
+# Hi i'm Adnan Hamdan
+
+# 🧠 Programming Skills 
 
 ## 💻 Languages
 - JavaScript (ES6+)
@@ -18,7 +20,7 @@
 
 ## 🗄️ Databases
 - PostgreSQL
-- Sequelize (ORM)
+- Mongo DB (no SQL)
 
 ## 🧪 Tools & Utilities
 - Git & GitHub
